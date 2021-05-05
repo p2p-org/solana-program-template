@@ -1,7 +1,11 @@
 [package]
 name = "{{project-name}}"
+description = ""
 version = "0.1.0"
 authors = ["{{authors}}"]
+license = "MIT"
+keywords = ["solana", "program"]
+readme = "README.md"
 edition = "2018"
 
 [lib]
